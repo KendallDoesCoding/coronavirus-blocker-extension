@@ -1,5 +1,7 @@
 Thanks to [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) for making [this tutorial](https://youtu.be/rymG9UmPuhM) on how to make this extension. I obviously added some more touches from his tutorial.
 
+The branch "main" will contain the files for the current version of the extension, or a little updated version which is awaiting to be released. If the code doesn't run in the branch main it can be because we are in process of editting so we suggest you download the latest release files.
+
 # How to add it as a chrome extension?:
 1. Download the source code, or clone it using [Github Desktop](https://desktop.github.com/)
 2. Extract it from the ZIP file to a folder, on your local drive (if you cloned the repo to your local drive then skip this step)
