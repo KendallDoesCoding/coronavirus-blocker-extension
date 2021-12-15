@@ -1,4 +1,8 @@
-replaceText(document.body)
+const blocked = ["https://github.com", "https://google.com"]
+
+if (!blocked.contains(window.location.href)) {
+    replaceText(document.body)
+}
 
 function replaceText(element) {  
     if (element.hasChildNodes()) {
