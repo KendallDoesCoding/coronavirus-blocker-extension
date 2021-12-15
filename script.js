@@ -9,5 +9,7 @@ function replaceText(element) {
         element.parentElement.style.backgroundColor = "black"
         }
         element.textContent = element.textContent.replace(/coronavirus/gi, 'poopface')
+        element.textContent = element.textContent.replace(/covid/gi, 'poopface')
+        element.textContent = element.textContent.replace(/covid-19/gi, 'poopface')
     }
 }
