@@ -15,11 +15,6 @@ html, body {
      margin: 0;
      color: #2f5876;
 }
- a:link, a:visited {
-     color: #000000;
-     outline: 0;
-     text-decoration: none;
-}
  img {
      width: 30px;
 }
@@ -30,21 +25,12 @@ html, body {
  .modal-content {
      padding: 0 22px;
 }
- .modal-icons {
-     border-top: 0.5px solid #dadada;
-     height: 50px;
-     width: 100%;
-}
  .logo {
      padding: 16px;
 }
  .logo-icon {
      vertical-align: text-bottom;
      margin-right: 12px;
-}
- .version {
-     color: #444;
-     font-size: 18px;
 }
  .flex-container {
      display: flex;
@@ -56,17 +42,10 @@ html, body {
      transition: opacity 0.2s ease-in-out;
      width: 120px;
 }
- img {
-     color: darksalmon 
-}
- .flex:hover {
-     opacity: 0.4;
-}
  .flex .fa {
      font-size: 40px;
      color: #2f5876;
 }
-
 .extensions {
  text-color: darksalmon
 }
