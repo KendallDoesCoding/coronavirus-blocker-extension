@@ -33,10 +33,10 @@
      height: 50px;
      width: 100%;
 }
- .logo {
+ .logo, extensions {
      padding: 16px;
 }
- .logo-icon {
+ .logo-icon, extensions {
      vertical-align: text-bottom;
      margin-right: 12px;
 }
