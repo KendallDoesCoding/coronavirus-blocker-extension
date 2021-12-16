@@ -1,6 +1,14 @@
+function isInArray(array, value) {
+    if (array.indexOf(value) === -1) {
+        return false
+    else {
+        return true
+    }
+}
+
 const blocked = ["https://github.com", "https://google.com"]
 
-if (!blocked.contains(window.location.href)) {
+if (isInArray(blocked, window.location.href) === false) {
     replaceText(document.body)
 }
 
