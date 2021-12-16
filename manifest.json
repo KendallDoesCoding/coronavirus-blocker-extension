@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "poopface Blocker",
+    "name": "Coronavirus Blocker",
     "description": "This extension is for all the people who want to get poopface, poopface out of their life, trust me we all do!",
     "version": "1.0",
     "icons": {"128": "images/icon_128.png"},
