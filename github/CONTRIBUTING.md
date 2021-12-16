@@ -4,6 +4,6 @@
 
 - Please don't make a pull request with a bunch of changes in syntax just for the sake of 'best practices' (ex: changing "if blah == False" to "if not blah"). 
 
-- Try to keep pull requests small, and remember to complete the full PR Request template, while submitting your pull request to make it easier for me to review your edits.
+- Try to keep pull requests small.
 
-- MAKE SURE IT RUNS
+- MAKE SURE THE EXTENSION WORKS
