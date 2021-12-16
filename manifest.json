@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "█████ Blocker",
-    "description": "This extension is for all the people who want to get poopface, █████ out of their life, trust me we all do!",
+    "name": "Coronavirus Blocker",
+    "description": "This extension is for all the people who want to get Covid, Coronavirus out of their life, trust me we all do!",
     "version": "3.0",
     "icons": {"128": "icon_128.png"},
     "content_scripts": [
