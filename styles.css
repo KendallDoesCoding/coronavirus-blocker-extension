@@ -21,7 +21,7 @@
  img {
      width: 30px;
 }
- .modal-header {
+ .modal-header, extensions {
      align-items: center;
      border-bottom: 0.5px solid #dadada;
 }
