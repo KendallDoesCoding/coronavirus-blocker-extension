@@ -21,7 +21,7 @@
  img {
      width: 30px;
 }
- .modal-header, extensions {
+ .modal-header, .extensions {
      align-items: center;
      border-bottom: 0.5px solid #dadada;
 }
@@ -33,10 +33,10 @@
      height: 50px;
      width: 100%;
 }
- .logo, extensions {
+ .logo, .extensions {
      padding: 16px;
 }
- .logo-icon, extensions {
+ .logo-icon, .extensions {
      vertical-align: text-bottom;
      margin-right: 12px;
 }
