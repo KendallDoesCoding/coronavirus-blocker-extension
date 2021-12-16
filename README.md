@@ -13,3 +13,6 @@ The branch "main" will contain the files for the current version of the extensio
 NOTE: You can also pin the extension if you like, but you won't be able to see anything. 
 
 And boom, your done.
+
+# Issue with tags
+The tags 1.0, 2.0, 3.0 have typo's in them. The release that will work for now is 1.3.0, I am working on a 1.1.0 and a 1.2.0. I need to delete the tags forr 1.0, 2.0 and 3.0.
