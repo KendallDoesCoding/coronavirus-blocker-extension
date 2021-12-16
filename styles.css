@@ -11,6 +11,11 @@ html, body {
  img {
      width: 30px;
 }
+ a:link, a:visited {
+     color: #000000;
+     outline: 0;
+     text-decoration: none;
+}
  .modal-header {
      align-items: center;
      border-bottom: 0.5px solid #dadada;
