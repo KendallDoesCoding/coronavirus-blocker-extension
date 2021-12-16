@@ -42,12 +42,6 @@ html, body {
      transition: opacity 0.2s ease-in-out;
      width: 120px;
 }
- img {
-     color: darksalmon 
-}
- .flex:hover {
-     opacity: 0.4;
-}
  .flex .fa {
      font-size: 40px;
      color: #2f5876;
