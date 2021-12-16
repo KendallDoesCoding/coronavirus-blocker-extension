@@ -2,6 +2,7 @@
 
 This is version 1.0 of my Coronavirus Blocker Extension
 
+# project info
 Thanks to [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) for making [this tutorial](https://youtu.be/rymG9UmPuhM) on how to make this extension. I obviously added some more touches from his tutorial.
 
 # How to add it as a chrome extension?:
