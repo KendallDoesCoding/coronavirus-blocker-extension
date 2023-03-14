@@ -5,7 +5,7 @@ The branch "main" will contain the files for the current version of the extensio
 As of, 4:26 IST on 16th December 2021, the main branch is a little ahead from the release "4.0".
 
 # How to add it as a chrome extension?:
-1. Download the source code, or clone it using [Github Desktop](https://desktop.github.com/)
+1. Download the source code, or clone it using Git/[Github Desktop](https://desktop.github.com/)
 2. Extract it from the ZIP file to a folder, on your local drive (if you cloned the repo to your local drive then skip this step)
 3. Go to the Chrome Extensions page (chrome://extensions)
 4. Tap load unpacked extension
